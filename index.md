@@ -28,7 +28,7 @@ While Kindra does not know her own age, she can assume from this that she is not
 
 ### Personal Details
 
-In dragon form, Kindra is approximately 22' feet/7 yalms/7 meters in length, with a limbless serpentine form, aside from a few mildly flexible fins.
+In dragon form, Kindra is approximately 22' feet / 7 yalms / 7 meters in length, with a limbless serpentine form, aside from a few mildly flexible fins. She has a bite force of 4,000 psi and swims at speeds in excess of 40 knots.
 
 She only turns to dragon form when she is out of sight, sleeping in her cave hidden at the bottom of the Ruby Sea.
 
@@ -36,13 +36,11 @@ Her cave contains a hoard of gold coins, glam gear, materia, and Allagan relics.
 
 When in her Au Ra form her mass is still the same, so she is deceptively strong despite her smallish size. Due to her tendency to go all-out with her full strength, she also frequently loses her tail while adventuring, having to grow it back through a lot of rest and consumption of fish.
 
-- Bulleted
-- List
+### OOC
 
-1. Numbered
-2. List
+- RP level is casual
+- I do not ERP (not against it but also not really into it either)
+- Head pats and hugs are welcome
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 
