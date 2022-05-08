@@ -2,7 +2,9 @@
 
 ### Background
 
-From x land
+Kindra is a serpentine sea dragon in the shape of a raen Au Ra, through the use of an Allagan choker. She woke after her containment unit in Azys Lla fell hundreds of yalms to the ground and tore open. She was found and raised by the raen of the Ruby Sea, in an exceptional stroke of coincidence. Unaware of her own origins at first, she grew accustomed to her Au Ra shape during many years of traveling and self-discovery.
+
+It's not until she meets Midgardsormr that she realizes her true nature, but it's still unknown to them what brood she sprang from. She suspects she may be descended from one of Ratatoskr's offspring, but there's no way to know for sure anymore. She accepts this as a sign to embrace her identity as an Au Ra, and stubbornly refuses to return to her full dragon form. (most dragons seem to have at least one thing they're staunchly stubborn about lol)
 
 You can use the [editor on GitHub](https://github.com/riverdays/riverdays.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
