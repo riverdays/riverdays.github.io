@@ -1,6 +1,6 @@
 ## Kindra Kanna
 
-# Background
+### Background
 
 From x land
 
